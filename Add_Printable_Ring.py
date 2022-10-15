@@ -3,7 +3,9 @@ Copyright (C) 2016 Ákos Nikházy
 nikhazy.akos@gmail.com
 
 Created by Ákos Nikházy
-
+	
+    This will work only with Blender 2.7 only.
+    
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
